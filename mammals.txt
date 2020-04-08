@@ -1,0 +1,5 @@
+dogs
+dolphins
+cats
+humans
+horses
